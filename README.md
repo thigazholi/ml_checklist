@@ -15,7 +15,9 @@
 10. How would you solve the problem manually?
 11. List the assumptions you or others have made so far?
 12. Verify assumptions if possible.
+</details>
 
+<details>
 <summary>2. Get the data </summary>
 
 Automate as much as possible
@@ -32,4 +34,8 @@ Automate as much as possible
 11. Sample a test set, put it aside, and never look at it (no data snooping!).
 
 </details>
+
+<!-- <details> -->
+
+
 
