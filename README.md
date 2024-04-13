@@ -1,8 +1,9 @@
 # ml_checklist
-<details open>
+<details>
 <summary>1. Frame the problem and look at the big picture </summary>
 <br>
-1. Define the objective
+```
+1. Define the objective.
 2. How will your solution be used?
 3. What are the current solutions/workarounds?
 4. How should you frame this problem (supervised/ unsupervised, online/offline, etc.)?
@@ -14,4 +15,5 @@
 10. How would you solve the problem manually?
 11. List the assumptions you or others have made so far?
 12. Verify assumptions if possible.
+```
 </details>
