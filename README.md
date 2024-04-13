@@ -133,6 +133,7 @@ Notes:
 
 <details>
 <summary> 8. Launch!  </summary>
+
 1. Get your solution ready for production (plug into production data inputs, write unit tests, etc.).  
 2. Write monitoring code to check your system's live performance at regular intervals and trigger alerts when it drops.  
     - Beware of slow degradation too: models tend to "rot" as data evolves.   
